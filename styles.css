@@ -1,0 +1,35 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+h1,
+.subheading {
+    background-color: rgb(174, 173, 173);
+    color: rgb(226, 223, 31);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.intro.text {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.subheading {
+    font-size: 32px;
+
+}
+
+.text {
+    font-size: 20px;
+}
+
+.link {
+    color: darkorange;
+}
